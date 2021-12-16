@@ -1,6 +1,6 @@
 # AudioSwitcher
 
-This is an audio-switching script for swapping between playback/recording device pairs quickly in Windows.
+This is an audio-switching script for swapping between playback/recording device pairs quickly in Windows. I use this to flip between a high-quality DAC/amp/mic setup and a wireless headset.
 
 
 ## Components
