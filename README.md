@@ -14,6 +14,13 @@ This is an audio-switching script for swapping between playback/recording device
 * [AutoHotKey](https://www.autohotkey.com/): for keyboard shortcut handling
 * [AudioDeviceCmdlets](https://github.com/frgnca/AudioDeviceCmdlets): for management of audio devices in Powershell scripts
 
+If you have Chocolatey installed, you can do this quickly from a Powershell prompt:
+
+```powershell
+choco install autohotkey
+Install-Module -Name AudioDeviceCmdlets
+```
+
 ### Install
 
 1. Create symlink
